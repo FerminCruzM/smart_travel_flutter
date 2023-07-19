@@ -46,7 +46,7 @@ class HomePage extends StatelessWidget {
                 ),
                 SizedBox(height: 50),
                 Text(
-                  'SELECCIONA TU ROL',
+                  'SELECCIONA TU PERFIL',
                   style: TextStyle(color: Colors.white,
                       fontSize: 20,
                     fontFamily: 'OneDay'
